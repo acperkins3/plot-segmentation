@@ -15,5 +15,4 @@ The points we use are the red bucket lids in the corners of the fields, which we
 
 1. To start, click `Raster` > `Georeferencer` from the menu toolbar on a Mac, or ___ on a PC.
 2. Click the blue checkered button in the top left and open that file that will be georeferenced
-<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fecb219f6-3001-4cd5-a337-8f7606e497f8%2FScreen_Shot_2021-08-30_at_11.46.33_PM.png?id=3b645b91-3960-46eb-819a-0e9507ae8661&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2"
-max-width: 50% /></p>
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fecb219f6-3001-4cd5-a337-8f7606e497f8%2FScreen_Shot_2021-08-30_at_11.46.33_PM.png?id=3b645b91-3960-46eb-819a-0e9507ae8661&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" width="200" /></p>
