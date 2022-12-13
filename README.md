@@ -87,3 +87,31 @@ Bottom Left
 
 <p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F93211299-1908-4298-957d-570ce6941cb5%2FScreen_Shot_2022-12-13_at_10.58.43_AM.png?id=83656726-d330-40bd-9882-5d92a836092c&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" /></p>
 
+5. You will probably need the `Selection Toolbar` and `Shape Digitizing Toolbar` turned on. To do that, right click in the grey space in the toolbar on the top and make sure they are checked
+
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F93d071bb-26bc-467c-ba46-672ec940dc0e%2FScreen_Shot_2022-12-13_at_11.20.33_AM.png?id=4eeb748b-1ad8-47c8-8def-f4c18901a816&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" /></p>
+
+6. To edit and move the bounding boxes, first click on the pencil icon when the plots object is selected in the layers bar on the left
+
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F459cd0bf-5cbc-4ccd-b378-50954f263d4a%2FScreen_Shot_2021-06-14_at_9.10.05_AM.png?id=4df81631-5122-43f1-9e4e-221b02b8385e&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=1080&userId=&cache=v2" width="300" /></p>
+
+7. To move one rectangle at a time, just click on the `Move Feature` button, click on the rectangle, and then click again where it should go.
+
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F35a1640f-05d2-4377-a07f-45cf1fec7921%2FScreen_Shot_2021-07-06_at_1.15.34_PM_(2).png?id=9a98299e-3329-4a7b-bc59-2313ecbc5266&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=830&userId=&cache=v2" width="300" /></p>
+
+To move multiple boxes together, use the `Select Features by Area` tool first to select them, then use the `Move Feature` button
+
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F50996318-74ba-4366-8f32-c457fb583060%2FScreen_Shot_2022-12-13_at_11.32.15_AM.png?id=b08b99be-bfaf-429b-918f-d62aee80c6e2&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" width="300" /></p>
+
+You can zoom in on the orthomosaic by scrolling with two fingers like you would scrolling down a webpage. To move around by clicking and dragging, just click the hand in the top toolbar.
+
+8. When done, **save the changes to the layer with the plot outlies** by clicking `Layer` > `Save Layer Edits` in the menu bar
+
+<p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc29a4d15-0083-4e6f-a64d-780466098951%2FScreen_Shot_2022-12-13_at_12.05.34_PM_(3).png?id=29ea9983-40a5-47a6-9cbd-ca4b1e1ee26e&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=1120&userId=&cache=v2" width="300" /></p>
+
+To make sure you don't accidentally change it again later, I would suggest right clicking on the layer in the `Layers` panel on the left and choosing `Remove Layer`. You can do the same for the orthomosaic. 
+
+Please let us know if you have any questions!
+
+
+
