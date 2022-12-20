@@ -67,6 +67,48 @@ Bottom Left
 44.1189022223115046
 ```
 
+### K18
+
+Top Left
+
+```
+-89.5551972450810041
+```
+
+```
+44.11890097302426739
+```
+
+Top Right
+
+```
+-89.55278872843874183
+```
+
+```
+44.11885836695546459
+```
+
+Bottom Left
+
+```
+-89.55519327786936401
+```
+
+```
+44.11845911652717689
+```
+
+Bottom Right
+
+```
+-89.55279560066487932
+```
+
+```
+44.11843636428444171
+```
+
 5. In the settings (the gear) make sure the `Transformation type` is set for `Polynomial 1` and that `Save GCP points` is checked. By default, the output is named the same as the input with `_modified` at the end of the file name, which is good to know. It doesn't modify or change the file we started with.
 
 <p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F06800fc4-7fc4-4bac-98b0-99fbc53d101a%2FScreen_Shot_2022-12-13_at_10.19.44_AM.png?id=8de221f1-48ef-4bce-9da7-fce36bf2e14e&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" /></p>
@@ -110,6 +152,10 @@ You can zoom in on the orthomosaic by scrolling with two fingers like you would 
 <p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc29a4d15-0083-4e6f-a64d-780466098951%2FScreen_Shot_2022-12-13_at_12.05.34_PM_(3).png?id=29ea9983-40a5-47a6-9cbd-ca4b1e1ee26e&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=1120&userId=&cache=v2" width="300" /></p>
 
 To make sure you don't accidentally change it again later, I would suggest right clicking on the layer in the `Layers` panel on the left and choosing `Remove Layer`. You can do the same for the orthomosaic. 
+
+## Some extra details
+
+1. If the plot outlines are the wrong size, show up in totally the wrong place, etc., feel free to skip that flight.
 
 Please let us know if you have any questions!
 
