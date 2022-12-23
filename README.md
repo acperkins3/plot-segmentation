@@ -109,6 +109,47 @@ Bottom Right
 44.11843636428444171
 ```
 
+### K21
+
+Top Left
+
+```
+-89.5551601520495808
+```
+```
+44.11742998192990228
+```
+
+Top Right
+
+```
+-89.55279139070660221
+```
+```
+44.11745767585826172
+```
+
+Bottom Right
+
+```
+-89.55280108808869954
+```
+```
+44.11704832754144689
+```
+
+Bottom Left
+
+```
+-89.55515550585833751
+```
+
+```
+44.11707765393451552
+```
+
+
+
 5. In the settings (the gear) make sure the `Transformation type` is set for `Polynomial 1` and that `Save GCP points` is checked. By default, the output is named the same as the input with `_modified` at the end of the file name, which is good to know. It doesn't modify or change the file we started with.
 
 <p align="center"><img src="https://speckled-breadfruit-5bb.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F06800fc4-7fc4-4bac-98b0-99fbc53d101a%2FScreen_Shot_2022-12-13_at_10.19.44_AM.png?id=8de221f1-48ef-4bce-9da7-fce36bf2e14e&table=block&spaceId=5c4f5b44-950a-4844-bd0f-87f77e11832b&width=2000&userId=&cache=v2" /></p>
